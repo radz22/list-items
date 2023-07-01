@@ -1,0 +1,54 @@
+*{  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    
+}
+
+.black{
+    background: radial-gradient(circle at -8.9% 51.2%, rgb(255, 124, 0) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(255, 163, 77) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);
+
+    height: 100vh;
+    width: 100%;
+}
+
+.white{
+    background: linear-gradient(to top, #09203f 0%, #537895 100%);
+
+    height: 100vh;
+    width: 100%;
+}
+
+.bg{
+    cursor: pointer;
+  
+}
+
+
+h1{
+    font-weight: 900; 
+    font-family:'Courier New', Courier, monospace;
+
+
+        
+}
+
+.col-12{
+    height: 100vh;
+}
+ 
+.input{
+    padding: 5px 20px;
+    background: radial-gradient(circle at 7.5% 24%, rgb(237, 161, 193) 0%, rgb(250, 178, 172) 25.5%, rgb(190, 228, 210) 62.3%, rgb(215, 248, 247) 93.8%);
+   border: none;
+
+}
+
+span{
+    color: #d5d5c7;
+    font-size: 21px;
+    font-weight: 600;
+    
+}
+
